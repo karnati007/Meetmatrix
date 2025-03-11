@@ -1,7 +1,5 @@
 # Meetmatrix
-Here’s a GitHub description for your **MeetMatrix** project:
 
----
 
 **MeetMatrix** is an innovative platform designed to streamline event management and scheduling for university communities. It allows users to create, manage, and RSVP to events, fostering engagement and collaboration among students and faculty. The platform integrates powerful features such as automated notifications, real-time updates, and customizable event settings. Built using a combination of modern web technologies, MeetMatrix also includes a smart bot integration that enhances user interaction, answering queries and assisting with event management tasks.  
 
