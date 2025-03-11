@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235620052615",
+    "project_id": "meetmatrix-8b5e5",
+    "storage_bucket": "meetmatrix-8b5e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235620052615:android:2d3439c9c49751ce57d222",
+        "android_client_info": {
+          "package_name": "com.mycompany.meetmatrix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLpyUy8KF_Lt6oyr6hC6SLcHK9WrjF25I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
